@@ -1,4 +1,4 @@
-﻿# 2-CH RS485 HAT
+﻿# 2-CH RS232 HAT
 ## waveshare electronics
 ![waveshare_logo.png](waveshare_logo.png)
 http://www.waveshare.net  
